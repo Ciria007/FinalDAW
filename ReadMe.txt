@@ -9,6 +9,7 @@ password=rescate1.trial
 	smtp_port=587
 	sendmail_from = trial.rescate1@gmail.com
 	sendmail_path = "\"C:\xampp\sendmail\sendmail.exe\" -t"
+1.3 display_errors=Off
 
 2. Verify if you have sendmail in xampp. If you don't, download it from:
 	http://glob.com.au/sendmail/  then you must decompress it and place it in C:\xampp\
