@@ -29,3 +29,5 @@ password=rescate1.trial
 Reference:
 Best answer from,
 http://stackoverflow.com/questions/15965376/how-to-configure-xampp-to-send-mail-from-localhost
+
+.
